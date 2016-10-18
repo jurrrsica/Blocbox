@@ -50,6 +50,13 @@ h2 {
    .container {
      width: 750px;
    }
+   .testimonials.down {
+     margin-top: 0px;
+   }
+   .box {
+    margin-left: 25px;
+    margin-right: 25px;
+   }
  }
  @media (min-width: 992px) {
    .container {
