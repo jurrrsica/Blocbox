@@ -246,6 +246,9 @@ header .hero {
    padding:4em 0;
    text-align: center;
  }
+  .testimonials.down {
+   margin-top: 20px;
+ }
  .testimonials h2 {
    color:#3498DB;
  }
