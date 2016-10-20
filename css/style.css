@@ -211,8 +211,9 @@ header .hero {
    list-style-type: none;
  }
  .active {
-   background: #eeeeee;
+   background: #000000;
    position: relative;
+   width: 70%;
  }
  .box {
    padding:0 15px 15px;
