@@ -210,6 +210,10 @@ header .hero {
  .pricing ul li {
    list-style-type: none;
  }
+ .active {
+   background: #eeeeee;
+   position: relative;
+ }
  .box {
    padding:0 15px 15px;
    background: #FFFFFF;
