@@ -474,7 +474,6 @@ header .hero {
    top:0;
    left:0;
    right:0;
-   overflow: hidden;
  }
  .item-box h2 {
    font-family: 'Lato', Helvetica, Arial, sans-serif;
