@@ -86,7 +86,7 @@ h2 {
      position: relative;
    }
    .content > .container {
-     width:auto;
+     width:90%;
    }
    .content-item {
      width:23%;
